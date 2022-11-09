@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://sparkly-youtiao-ea870b.netlify.app'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Lazy Notes'
 theme = 'netlify-basic'
